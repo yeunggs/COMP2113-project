@@ -1,8 +1,8 @@
-# COMP2113_Group-34 (Splitted group from group 13. Similar game)
+# COMP2113_Group-34
 
 ## Team Members:
-- Li Yixuan, UID: 3036267111
-- Yang Jingcheng, UID: 3036219114
+- Yang Jingcheng
+- Li Yixuan
 
 ## Description of the Project:
 ### Title:
